@@ -122,6 +122,14 @@ li{
     padding: 2px;
 }
 
+.red-cross{
+    font-size: 10px;
+    color: #ea453b;
+    border: 2px solid #ea453b;
+    border-radius: 50%;
+    padding: 2px;
+}
+
 .container{
     font-size: 10px;
     color: #fff;
