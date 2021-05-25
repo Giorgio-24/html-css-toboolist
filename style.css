@@ -8,6 +8,7 @@
 
 body{
     background-color: #f6f8f9;
+    height: 800px;
 }
 
 .bg-white{
@@ -29,6 +30,14 @@ body{
 .bg-orange{
     background-color: #f29e33;
 }
+.bg-pink{
+    background-color: #d863a1;
+}
+
+.bg-verdaccio{
+    background-color: #b0c926;
+}
+
 /* Header */
 .firts-header-section{
     width: 100%;
@@ -80,7 +89,7 @@ h1{
 /* Main */
 main{
     width: 1050px;
-    height: 550px;
+    height: 600px;
     margin: 0 auto;
     border-radius: 0 0 5px 5px;
     padding: 0px 0px 40px 80px;
