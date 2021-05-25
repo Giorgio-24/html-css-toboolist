@@ -32,4 +32,39 @@ h1{
     bottom: 25px;
 }
 
+.second-header-section{
+    width: 1050px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 2px;
+    border-radius: 5px 5px 0 0;
+} /* So che è un po brutta come soluzione ma mi sono sforzato di non usare position */
+
+
+
+.add{
+    display: inline-block;
+    height: 27px;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.task{
+    background-color: #47adf1;
+    color: #fff;
+    margin: 12.5px 0px 12.5px 75px;
+}
+
+.section{
+     color: #808080;
+}
 /* Main */
+main{
+    width: 1050px;
+    height: 550px;
+    margin: 0 auto;
+    border-radius: 0 0 5px 5px;
+}
