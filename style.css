@@ -11,6 +11,15 @@ body{
     height: 800px;
 }
 
+.specialgreen{
+    color: #6fc6b2;
+    border: 2px solid #6fc6b2;
+}
+
+.specialred{
+    color: #ea453b;
+    border: 2px solid #ea453b;
+}
 .bg-white{
     background-color: #fff;
 }
@@ -71,19 +80,18 @@ h1{
 .add{
     display: inline-block;
     height: 27px;
-    border: 1px solid #808080;
     border-radius: 5px;
     padding: 5px;
     font-size: 14px;
 }
 
 .task{
-    background-color: #47adf1;
     color: #fff;
     margin: 12.5px 0px 12.5px 75px;
 }
 
 .section{
+     border: 1px solid #808080;
      color: #808080;
 }
 /* Main */
@@ -114,18 +122,8 @@ li{
     padding: 10px;
 }
 
-.green-check{
+.entity{
     font-size: 10px;
-    color: #6fc6b2;
-    border: 2px solid #6fc6b2;
-    border-radius: 50%;
-    padding: 2px;
-}
-
-.red-cross{
-    font-size: 10px;
-    color: #ea453b;
-    border: 2px solid #ea453b;
     border-radius: 50%;
     padding: 2px;
 }
