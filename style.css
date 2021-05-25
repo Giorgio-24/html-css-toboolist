@@ -17,6 +17,18 @@ body{
 .bg-lightblue{
     background-color: #45abea;
 }
+
+.bg-purple{
+    background-color: #9c72e4;
+}
+
+.bg-lightgreen{
+     background-color: #64c0a9;
+}
+
+.bg-orange{
+    background-color: #f29e33;
+}
 /* Header */
 .firts-header-section{
     width: 100%;
@@ -76,6 +88,7 @@ main{
 
 h3{
     padding-top: 40px;
+    color: #444851;
 }
  
 .arrowhead{
@@ -88,6 +101,10 @@ ul{
     list-style: none;
 }
 
+li{
+    padding: 10px;
+}
+
 .green-check{
     font-size: 10px;
     color: #6fc6b2;
@@ -98,7 +115,7 @@ ul{
 
 .container{
     font-size: 10px;
-    background-color: lightblue;
+    color: #fff;
     border-radius: 8px;
     padding: 4px 10px;
 }
